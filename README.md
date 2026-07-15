@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hritik Chauhan
+# Hi, I'm Hritik Chauhan
 
 🚀 Backend Engineer | Software Engineer  
 💻 Nodejs • Prisma • PostgreSQL • React • AWS S3 • Spring Boot • GenAI  
